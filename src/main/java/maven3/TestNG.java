@@ -15,6 +15,9 @@ public class TestNG {
 		System.out.println("aweffaf2222e");
 		System.out.println("aweffaf2222e");
 		System.out.println("aweffaf2222e");
+		System.out.println("aweffaf2222e");
+		System.out.println("aweffaf2222e");
+		
 	}
 	@Test
 	public void test() {
