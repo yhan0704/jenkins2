@@ -14,6 +14,7 @@ public class TestNG {
 		System.out.println("aweffafe");
 		System.out.println("aweffafe");
 		System.out.println("aweffafe");
+		System.out.println("aweffafe");
 	}
 	@Test
 	public void test() {
