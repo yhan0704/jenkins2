@@ -11,7 +11,7 @@ public class TestNG {
 	public void before() throws InterruptedException {
 
 		System.out.println("aweffafe");
-
+		System.out.println("aweffafe");
 		
 	}
 	@Test
