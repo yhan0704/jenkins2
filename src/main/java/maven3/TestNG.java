@@ -20,6 +20,7 @@ public class TestNG {
 	@Test
 	public void test() {
 		System.out.println("afeawf");
+		      
 	}
 	@AfterClass
 	public void after() {
